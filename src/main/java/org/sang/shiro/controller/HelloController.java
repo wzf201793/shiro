@@ -21,5 +21,6 @@ public class HelloController {
         System.out.println("hello git 22!");
         System.out.println("hello git 33!");
         System.out.println("master test!");
+        System.out.println("hot-fix test!");
     }
 }
